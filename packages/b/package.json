@@ -1,0 +1,13 @@
+{
+  "name": "b",
+  "version": "1.0.1",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/b.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

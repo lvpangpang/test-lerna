@@ -1,0 +1,10 @@
+{
+  "name": "a",
+  "version": "1.0.2",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/a.js",
+  "files": [
+    "lib"
+  ]
+}
